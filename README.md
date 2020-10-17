@@ -7,3 +7,21 @@
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
+
+| day    |      reading assignment     |  links  |
+|----------|:-------------:| ------------:|
+|  1 |   SMACSS and Responsive Web Design | [link](https://joudi12.github.io/reading-notes301/read-01) |
+| 2  |     |    |
+| 3  |    |       |
+| 4  |        |   |
+|5   ||    |
+| 6  |   |  |
+| 7  |   |        |
+| 8  |  |       |
+| 9  |     |     |
+|10  |  |    |
+| 11 |    |    |
+| 12 |    |   |
+| 13 |  |   |
+| 14 |          |  |
+|15  |  | ) |
