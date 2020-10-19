@@ -11,7 +11,7 @@
 | day    |      reading assignment     |  links  |
 |----------|:-------------:| ------------:|
 |  1 |   SMACSS and Responsive Web Design | [link](https://joudi12.github.io/reading-notes301/read-01) |
-| 2  |     |    |
+| 2  |  Read: 02 - jQuery, Events, and The DOM |   [link](https://joudi12.github.io/reading-notes301/read-02) |
 | 3  |    |       |
 | 4  |        |   |
 |5   ||    |
