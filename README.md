@@ -13,7 +13,7 @@
 |  1 |   SMACSS and Responsive Web Design | [link](https://joudi12.github.io/reading-notes301/read-01) |
 | 2  |  Read: 02 - jQuery, Events, and The DOM |   [link](https://joudi12.github.io/reading-notes301/read-02) |
 | 3  |  Flexbox and Templating  |    [link](https://joudi12.github.io/reading-notes301/read-03)    |
-| 4  |        |   |
+| 4  |   Responsive Web Design and Regular Expressions     |  [link](https://joudi12.github.io/reading-notes301/read-04) |
 |5   ||    |
 | 6  |   |  |
 | 7  |   |        |
