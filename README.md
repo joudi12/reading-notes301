@@ -15,7 +15,7 @@
 | 3  |  Flexbox and Templating  |    [link](https://joudi12.github.io/reading-notes301/read-03)    |
 | 4  |   Responsive Web Design and Regular Expressions     |  [link](https://joudi12.github.io/reading-notes301/read-04) |
 |5   | Heroku Deployment|   [link](https://joudi12.github.io/reading-notes301/read-05)  |
-| 6  |   |  |
+| 6  |  Node, Express, and APIs | [link](https://joudi12.github.io/reading-notes301/read-06) |
 | 7  |   |        |
 | 8  |  |       |
 | 9  |     |     |
