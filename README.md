@@ -16,7 +16,7 @@
 | 4  |   Responsive Web Design and Regular Expressions     |  [link](https://joudi12.github.io/reading-notes301/read-04) |
 |5   | Heroku Deployment|   [link](https://joudi12.github.io/reading-notes301/read-05)  |
 | 6  |  Node, Express, and APIs | [link](https://joudi12.github.io/reading-notes301/read-06) |
-| 7  |   |        |
+| 7  |  Read: 07 - APIs continued |      [link](https://joudi12.github.io/reading-notes301/read-07)  |
 | 8  |  |       |
 | 9  |     |     |
 |10  |  |    |
