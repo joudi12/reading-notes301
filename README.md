@@ -17,7 +17,7 @@
 |5   | Heroku Deployment|   [link](https://joudi12.github.io/reading-notes301/read-05)  |
 | 6  |  Node, Express, and APIs | [link](https://joudi12.github.io/reading-notes301/read-06) |
 | 7  |  Read: 07 - APIs continued |      [link](https://joudi12.github.io/reading-notes301/read-07)  |
-| 8  |  |       |
+| 8  | Read: 08 - SQL |    [link](https://joudi12.github.io/reading-notes301/read-08)    |
 | 9  |     |     |
 |10  |  |    |
 | 11 |    |    |
