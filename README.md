@@ -19,7 +19,7 @@
 | 7  |  Read: 07 - APIs continued |      [link](https://joudi12.github.io/reading-notes301/read-07)  |
 | 8  | Read: 08 - SQL |    [link](https://joudi12.github.io/reading-notes301/read-08)    |
 | 9  |  Read: 09 - Refactoring   |       [link](https://joudi12.github.io/reading-notes301/read-09)      |
-|10  | Read: 10 - The Call Stack and Debugging |  [link](https://joudi12.github.io/reading-notes301/read-10) |
+|10  | Read: 10 - The Call Stack and Debugging |  [link](https://joudi12.github.io/reading-notes301/read-010) |
  |    |
 | 11 |    |    |
 | 12 |    |   |
