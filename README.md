@@ -21,7 +21,7 @@
 | 9  |  Read: 09 - Refactoring   |       [link](https://joudi12.github.io/reading-notes301/read-09)      |
 |10  | Read: 10 - The Call Stack and Debugging |  [link](https://joudi12.github.io/reading-notes301/read-010) |
  |    |
-| 11 |    |    |
+| 11 |   Read: 11 - EJS |  [link](https://joudi12.github.io/reading-notes301/read-11)  |
 | 12 |    |   |
 | 13 |  |   |
 | 14 |          |  |
