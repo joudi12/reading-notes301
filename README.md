@@ -22,7 +22,7 @@
 |10  | Read: 10 - The Call Stack and Debugging |  [link](https://joudi12.github.io/reading-notes301/read-010) |
  |    |
 | 11 |   Read: 11 - EJS |  [link](https://joudi12.github.io/reading-notes301/read-11)  |
-| 12 |    |   |
+| 12 |  Read: 12 - Components  |  [link](https://joudi12.github.io/reading-notes301/read-12) |
 | 13 |  |   |
 | 14 |          |  |
 |15  |  | ) |
