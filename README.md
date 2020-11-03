@@ -24,5 +24,5 @@
 | 11 |   Read: 11 - EJS |  [link](https://joudi12.github.io/reading-notes301/read-11)  |
 | 12 |   Read: 12 - Components |   [link](https://joudi12.github.io/reading-notes301/read-12) |
 | 13 | Read: 13 - Update/Delete |  [link](https://joudi12.github.io/reading-notes301/read-13) |
-| 14 |          |  |
+| 14 |      Read: 14a - DB Normalization    |  [link](https://joudi12.github.io/reading-notes301/read-14)|
 |15  |  | ) | 
