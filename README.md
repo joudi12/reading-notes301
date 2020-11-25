@@ -26,3 +26,4 @@
 | 13 | Read: 13 - Update/Delete |  [link](https://joudi12.github.io/reading-notes301/read-13) |
 | 14 |      Read: 14a - DB Normalization    |  [link](https://joudi12.github.io/reading-notes301/read-14)|
 |15  | Readings: DIVERSITY AND INCLUSION  |[link](https://joudi12.github.io/reading-notes301/read-15)  | 
+
